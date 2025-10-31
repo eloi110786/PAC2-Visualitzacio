@@ -7,8 +7,8 @@ Aquest reprository conté tots  els arxius de la PAC2:
 
 3-- Imatge pie_chart.png amb la visualització Pie Chart
 
-4-- Imatge venn.pnh amb la visualitzación Venn Diagrams
+4-- Imatge venn.png amb la visualitzación Venn Diagrams
 
-5-- Arxiun raib_clot.html amb codi i visualització Rain cloud plot
+5-- Arxiun rain_plot.html amb codi i visualització Rain cloud plot
 
 6-- pac2.pptx point presentació
