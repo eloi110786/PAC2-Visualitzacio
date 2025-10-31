@@ -1,4 +1,4 @@
-# PAC2-Visualitzacio
+# PAC2-Visualització
 Aquest reprository conté tots  els arxius de la PAC2:
 
 1--Arxiu .pbix amb les visualitzacions Pie chart i Venn Daigrams
