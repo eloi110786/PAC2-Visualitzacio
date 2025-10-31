@@ -1,9 +1,9 @@
 # PAC2-Visualització
 Aquest reprository conté tots  els arxius de la PAC2:
 
-1--Arxiu .pbix amb les visualitzacions Pie chart i Venn Daigrams
+1--Arxiu pac_2_eloiarjona.pbix amb les visualitzacions Pie chart i Venn Daigrams
 
-2-- Arxiu jupyter amb la vidualitzación Rain cloud plot
+2-- Arxiu jupyter amb la visualitzación Rain cloud plot
 
 3-- Imatge png visualització Pie Chart
 
