@@ -9,7 +9,7 @@ Aquest reprository conté tots  els arxius de la PAC2:
 
 4-- Imatge venn.png amb la visualitzación Venn Diagrams
 
-5-- Arxiun rain_plot.html amb codi i visualització Rain cloud plot
+5-- Arxiun rain_clouf.html amb codi i visualització Rain cloud plot
 
 6-- pac2.pptx point presentació
 
