@@ -17,4 +17,4 @@ Aquest reprository conté tots  els arxius de la PAC2:
 
 8-- Datatest Estudiantes Estudiante.csv https://www.kaggle.com/datasets/ernestohinojosa/estudiantes
 
-* A part del feedback de la pràctica agrairia feedback de si podeu obrir l'arxiun .pbix i interactiar amb ell amb l'objectiu si es bona opció per la PAC3 i la PR2 o ytinc que explorar una altre eina
+*A part del feedback de la pràctica agrairia feedback de si podeu obrir l'arxiun .pbix i interactiar amb ell amb l'objectiu si es bona opció per la PAC3 i la PR2 o ytinc que explorar una altre eina
